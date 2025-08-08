@@ -20,7 +20,7 @@ Ye hackers kisi mulk ki hukoomat ke kehne par kaam karte hain. Ye bohat trained 
 **English:***
 They do hacking to make money. They use ransomware, phishing, and credit card fraud to steal or earn money illegally.
 
-**Roman Urdu:**
+**Urdu:**
 Ye log hacking sirf paise kamane ke liye karte hain. Ye log ransomware, phishing ya credit card chori jaise tareeqay use karte hain.
 
 ### 3. Insider Threats
@@ -93,8 +93,14 @@ Ye aise threats hote hain jo jaan bujh kar nahi kiye jate, magar phir bhi system
 
 ## Summary Table:
 ### Non-Malicious Threat -----------------------------------	 Urdu Explanation
+
 Human Error ----------------------------------------	Ghalti se ki gayi action jo nuksaan pohcha sakti hai
+
 Misconfiguration------------------------------------	Ghalat system settings jo vulnerabilities create karte hain
+
 Negligence --------------------------------------------	La parwahi jaise weak passwords, updates ignore karna
+
 Lost/Stolen Devices -----------------------------------	Device kho jana ya chori hona jisme sensitive data ho
+
 Shadow IT ---------------------------------------------	Bina IT ki permission ke apps/devices ka use
+

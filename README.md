@@ -64,7 +64,7 @@ Non-malicious threats are unintentional actions that can harm a system, but they
 **In simple words:**
 Ye aise threats hote hain jo jaan bujh kar nahi kiye jate, magar phir bhi system ko nuksaan pohcha sakte hain.
 
-### Examples of Non-Malicious Threats | Roman Urdu + English Mix:
+### Examples of Non-Malicious Threats 
 #### 1. Human Error
 **English:** Mistakes made by employees like sending data to the wrong person, deleting important files, or misconfiguring a system.
 

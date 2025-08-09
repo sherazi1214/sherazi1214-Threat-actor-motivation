@@ -1,4 +1,4 @@
-# Threat-actor-motivation
+# Threat-actor-motivation , , **[Threat Modeling & Intelligence](https://github.com/sherazi1214/Threat-Modeling-Intelligence)**
 
 ## What is a Threat Actor?
 **English:**
